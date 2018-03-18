@@ -1,0 +1,77 @@
+D:/Repository/corso_loghi/onescounter/onescounter.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Repository/corso_loghi/onescounter/onescounter.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity onescounter
+-- Compiling architecture struct of onescounter
+
+} {} {}} D:/Repository/corso_loghi/onescounter/zerodetect.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Repository/corso_loghi/onescounter/zerodetect.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity zerodetect
+-- Compiling architecture s of zerodetect
+
+} {} {}} D:/Repository/corso_loghi/onescounter/ctrlunit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Repository/corso_loghi/onescounter/ctrlunit.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ctrlunit
+-- Compiling architecture behav of ctrlunit
+
+} {} {}} D:/Repository/corso_loghi/onescounter/tb.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Repository/corso_loghi/onescounter/tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity TB
+-- Compiling architecture behav of TB
+
+} {} {}} D:/Repository/corso_loghi/onescounter/reg8.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Repository/corso_loghi/onescounter/reg8.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg8
+-- Compiling architecture s of reg8
+
+} {} {}} D:/Repository/corso_loghi/onescounter/datapath.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Repository/corso_loghi/onescounter/datapath.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity datapath
+-- Compiling architecture struct of datapath
+
+} {} {}} D:/Repository/corso_loghi/onescounter/adder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Repository/corso_loghi/onescounter/adder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity adder
+-- Compiling architecture s of adder
+
+} {} {}} D:/Repository/corso_loghi/onescounter/rshift.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Repository/corso_loghi/onescounter/rshift.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity rshift
+-- Compiling architecture s of rshift
+
+} {} {}} D:/Repository/corso_loghi/onescounter/mux2x8.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Repository/corso_loghi/onescounter/mux2x8.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2x8
+-- Compiling architecture s of mux2x8
+
+} {} {}}

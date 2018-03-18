@@ -1,0 +1,389 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Repository/mips-vhdl
+Eadder
+Z0 w1521372964
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dD:/Repository/corso_loghi/onescounter
+Z5 8D:/Repository/corso_loghi/onescounter/adder.vhd
+Z6 FD:/Repository/corso_loghi/onescounter/adder.vhd
+l0
+L5
+VTkaIS=<OgX2D0;C`E^GEE1
+!s100 ;f=g6mHdmj?J5j=`JObY^0
+Z7 OP;C;10.4a;61
+32
+Z8 !s110 1521386795
+!i10b 1
+Z9 !s108 1521386795.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Repository/corso_loghi/onescounter/adder.vhd|
+Z11 !s107 D:/Repository/corso_loghi/onescounter/adder.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+As
+R1
+R2
+R3
+DEx4 work 5 adder 0 22 TkaIS=<OgX2D0;C`E^GEE1
+l14
+L13
+VV?Y;MQ2R=:XX5OSBLo4^O2
+!s100 1cm9o3Wn`MHLG[EPRSWXB2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ectrlunit
+Z14 w1521372545
+R2
+R3
+R4
+Z15 8D:/Repository/corso_loghi/onescounter/ctrlunit.vhd
+Z16 FD:/Repository/corso_loghi/onescounter/ctrlunit.vhd
+l0
+L4
+VQe0DU9>oH;9O]jn]YGgCH0
+!s100 7EAB8;l=n`InQXAZR1Kg82
+R7
+32
+Z17 !s110 1521386794
+!i10b 1
+Z18 !s108 1521386794.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Repository/corso_loghi/onescounter/ctrlunit.vhd|
+Z20 !s107 D:/Repository/corso_loghi/onescounter/ctrlunit.vhd|
+!i113 1
+R12
+R13
+Abehav
+R2
+R3
+DEx4 work 8 ctrlunit 0 22 Qe0DU9>oH;9O]jn]YGgCH0
+l30
+L25
+VYnT@S]3aC86BCKCRlQNEN1
+!s100 3chOOhVmloJ0Y1JfHiXKh2
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Edatapath
+Z21 w1521373366
+R1
+R2
+R3
+R4
+Z22 8D:/Repository/corso_loghi/onescounter/datapath.vhd
+Z23 FD:/Repository/corso_loghi/onescounter/datapath.vhd
+l0
+L6
+VPXWkB^YE;>K9e5K=N0a<<0
+!s100 8bFR^oimUhbeCg2nb6]^@1
+R7
+32
+R17
+!i10b 1
+R18
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Repository/corso_loghi/onescounter/datapath.vhd|
+Z25 !s107 D:/Repository/corso_loghi/onescounter/datapath.vhd|
+!i113 1
+R12
+R13
+Astruct
+R1
+R2
+R3
+Z26 DEx4 work 8 datapath 0 22 PXWkB^YE;>K9e5K=N0a<<0
+l66
+L25
+V@mDgK<jb2Li34UhkJ66d01
+!s100 HS;EZbVHWzga_oCL>H5>d2
+R7
+32
+R17
+!i10b 1
+R18
+R24
+R25
+!i113 1
+R12
+R13
+As
+R1
+R2
+R3
+R26
+l31
+L25
+VmbS>=RMR>kG3;X1aZWU9n1
+!s100 dbaD9dakg=ZN9Sn_^hNZK1
+R7
+32
+!s110 1521373024
+!i10b 1
+!s108 1521373024.000000
+R24
+R25
+!i113 1
+R12
+R13
+w1521372742
+Emux2x8
+Z27 w1521372881
+R2
+R3
+R4
+Z28 8D:/Repository/corso_loghi/onescounter/mux2x8.vhd
+Z29 FD:/Repository/corso_loghi/onescounter/mux2x8.vhd
+l0
+L4
+VD`UYi:V<b>PnEF130Vj:i2
+!s100 jfe74DBIZLX6QDFY^@`4Q2
+R7
+32
+R17
+!i10b 1
+R18
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Repository/corso_loghi/onescounter/mux2x8.vhd|
+Z31 !s107 D:/Repository/corso_loghi/onescounter/mux2x8.vhd|
+!i113 1
+R12
+R13
+As
+R2
+R3
+DEx4 work 6 mux2x8 0 22 D`UYi:V<b>PnEF130Vj:i2
+l14
+L13
+VOfmHH?kcl7a[^nCPd3GAS1
+!s100 LCooQ0k_E>e4n]dBjZj`01
+R7
+32
+R17
+!i10b 1
+R18
+R30
+R31
+!i113 1
+R12
+R13
+Eonescounter
+Z32 w1521373588
+R2
+R3
+R4
+Z33 8D:/Repository/corso_loghi/onescounter/onescounter.vhd
+Z34 FD:/Repository/corso_loghi/onescounter/onescounter.vhd
+l0
+L5
+VG2_jQmz:cAO7^goUk1T7`1
+!s100 H62?_<N6mlezJdVCi=DcI2
+R7
+32
+R8
+!i10b 1
+R9
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Repository/corso_loghi/onescounter/onescounter.vhd|
+Z36 !s107 D:/Repository/corso_loghi/onescounter/onescounter.vhd|
+!i113 1
+R12
+R13
+Astruct
+R2
+R3
+DEx4 work 11 onescounter 0 22 G2_jQmz:cAO7^goUk1T7`1
+l59
+L21
+V;o?DQI8zZVZZmH:=K?k7J1
+!s100 IT]Hi34MVzanWoHJiL]N]3
+R7
+32
+R8
+!i10b 1
+R9
+R35
+R36
+!i113 1
+R12
+R13
+Ereg8
+Z37 w1521372824
+R2
+R3
+R4
+Z38 8D:/Repository/corso_loghi/onescounter/reg8.vhd
+Z39 FD:/Repository/corso_loghi/onescounter/reg8.vhd
+l0
+L4
+V8;9_Q5FbIYmG`O]C<jTkX2
+!s100 kK<8UQB5ng6Z9h^hU`9?=0
+R7
+32
+R17
+!i10b 1
+R18
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Repository/corso_loghi/onescounter/reg8.vhd|
+Z41 !s107 D:/Repository/corso_loghi/onescounter/reg8.vhd|
+!i113 1
+R12
+R13
+As
+R2
+R3
+DEx4 work 4 reg8 0 22 8;9_Q5FbIYmG`O]C<jTkX2
+l14
+L13
+Vka=BWRm]e7=U56cHBmb3m2
+!s100 WL=[?obKPRiBEHKg]<hh@1
+R7
+32
+R17
+!i10b 1
+R18
+R40
+R41
+!i113 1
+R12
+R13
+Ershift
+Z42 w1521372928
+R2
+R3
+R4
+Z43 8D:/Repository/corso_loghi/onescounter/rshift.vhd
+Z44 FD:/Repository/corso_loghi/onescounter/rshift.vhd
+l0
+L4
+Vgk[gE[9gnR=Ti9T6Kzba70
+!s100 N=3hhPo>Cc]ae9<oLRd^G3
+R7
+32
+R8
+!i10b 1
+R9
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Repository/corso_loghi/onescounter/rshift.vhd|
+Z46 !s107 D:/Repository/corso_loghi/onescounter/rshift.vhd|
+!i113 1
+R12
+R13
+As
+R2
+R3
+DEx4 work 6 rshift 0 22 gk[gE[9gnR=Ti9T6Kzba70
+l12
+L11
+V8QTcG]20NO2o@W?AH4_RJ2
+!s100 =MT5>:>AA=LL018LzXQbT2
+R7
+32
+R8
+!i10b 1
+R9
+R45
+R46
+!i113 1
+R12
+R13
+Etb
+Z47 w1521373998
+R1
+R2
+R3
+R4
+Z48 8D:/Repository/corso_loghi/onescounter/tb.vhd
+Z49 FD:/Repository/corso_loghi/onescounter/tb.vhd
+l0
+L7
+V5>4FYOk@:0kG`0mjnSX;b1
+!s100 j8fcZmA<G4nRK]?:L^aIm3
+R7
+32
+R8
+!i10b 1
+R9
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Repository/corso_loghi/onescounter/tb.vhd|
+Z51 !s107 D:/Repository/corso_loghi/onescounter/tb.vhd|
+!i113 1
+R12
+R13
+Abehav
+R1
+R2
+R3
+Z52 DEx4 work 2 tb 0 22 5>4FYOk@:0kG`0mjnSX;b1
+l43
+L10
+Z53 V07<z[egZ>fO9Z?1X;g@8U1
+Z54 !s100 Q4IV4PmJDdOd0G[U7`:im1
+R7
+32
+R8
+!i10b 1
+R9
+R50
+R51
+!i113 1
+R12
+R13
+Ezerodetect
+Z55 w1521373008
+R1
+R2
+R3
+R4
+Z56 8D:/Repository/corso_loghi/onescounter/zerodetect.vhd
+Z57 FD:/Repository/corso_loghi/onescounter/zerodetect.vhd
+l0
+L5
+VXVc;;f_Pj_D83L^nGiDFK0
+!s100 29GPM99I9h`SXSHN32WTd2
+R7
+32
+R8
+!i10b 1
+R9
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Repository/corso_loghi/onescounter/zerodetect.vhd|
+Z59 !s107 D:/Repository/corso_loghi/onescounter/zerodetect.vhd|
+!i113 1
+R12
+R13
+As
+R1
+R2
+R3
+DEx4 work 10 zerodetect 0 22 XVc;;f_Pj_D83L^nGiDFK0
+l13
+L12
+Vd^]:J=gQAzdUfB=@12E9:0
+!s100 n?NYV8fNjg3SN;:T;df222
+R7
+32
+R8
+!i10b 1
+R9
+R58
+R59
+!i113 1
+R12
+R13
